@@ -1,0 +1,4 @@
+parkingSlotId,garageLocation,parkingSlotStatus,garageCapacity,garageTimeIn,garageTimeOut,ParkingFees
+1,SFO,V,5,1471580063026,1471590063026,10.0
+parkingSlotId,garageLocation,parkingSlotStatus,garageCapacity,garageTimeIn,garageTimeOut,ParkingFees
+1,SFO,V,5,1471580115151,1471590115151,10.0
